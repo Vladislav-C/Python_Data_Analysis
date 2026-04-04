@@ -95,7 +95,7 @@ plt.show()
 
 To find how skills are trending over 3 year time period for Data Analysts, I filtered data analyst positions and grouped the skills by the year of the job postings. This got me the top 5 skills of data analysts by year, showing how popular skills were throughout 2023-2025.
 
-View my notebook with detailed steps here: [3_Skills_Trend](3_Skills_Trend.ipynb).
+View my notebook with detailed steps here: [3_Skills_Trend](Project/3_Skills_Trend.ipynb).
 
 ### Visualize Data
 
@@ -145,7 +145,7 @@ plt.show()
 
 To identify the highest-paying roles and skills, I only got jobs in the United States and looked at their median salary. But first I looked at the salary distributions of common data jobs like Data Scientist, Data Engineer, and Data Analyst, to get an idea of which jobs are paid the most. 
 
-View my notebook with detailed steps here: [4_Salary_Analysis](4_Salary_Analysis.ipynb).
+View my notebook with detailed steps here: [4_Salary_Analysis](Project/4_Salary_Analysis.ipynb).
 
 #### Visualize Data 
 
@@ -209,7 +209,7 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 
 To identify the most optimal skills to learn ( the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn. 
 
-View my notebook with detailed steps here: [5_Optimal_Skills](5_Optimal_Skills.ipynb).
+View my notebook with detailed steps here: [5_Optimal_Skills](Project/5_Optimal_Skills.ipynb).
 
 #### Visualize Data
 
